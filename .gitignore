@@ -1,0 +1,2 @@
+# Recursively ignore all files matching ".txt"
+**/*.txt
