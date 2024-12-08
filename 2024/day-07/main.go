@@ -111,5 +111,5 @@ func main() {
 	calibrationEquations.operations = []string{"+", "*"}
 	fmt.Printf("PART[1] %v \n", calibrationEquations.partAnswer())
 	calibrationEquations.operations = []string{"+", "*", "|"}
-	fmt.Printf("PART[1] %v \n", calibrationEquations.partAnswer())
+	fmt.Printf("PART[2] %v \n", calibrationEquations.partAnswer())
 }
